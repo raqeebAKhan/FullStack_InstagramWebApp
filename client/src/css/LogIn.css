@@ -1,0 +1,32 @@
+.logIn{
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.loginForm{
+    padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.178);
+    border-radius: 1px;
+}
+
+.loginForm2{
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 8px;
+    border-radius: 1px;
+    border: 1px solid rgba(0, 0, 0, 0.178);
+}
+
+#login-btn{
+    background-color: #1773EA;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+   cursor: pointer;
+    margin-top: 8px;
+    border-radius: 4px;
+}
