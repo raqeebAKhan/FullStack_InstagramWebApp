@@ -81,9 +81,9 @@ function Post() {
      <div className='details'>
       <div className='card-header'>
         <div className='card-pic'>
-          <img src='https://i.pinimg.com/736x/3a/12/32/3a1232d28faf62d70400e904f520ec99.jpg' alt=''/>
+          <img src='https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png' alt=''/>
         </div>
-        <h5>Doremon</h5>
+        <h5>Furqan Khan</h5>
       </div>
       <textarea value={body} onChange={(e) =>{
         setBody(e.target.value)
