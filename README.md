@@ -42,6 +42,9 @@ This is Full Stack Instagram Clone
 <img src=images/login_success.png height="500px"/>
 <br/><br/>
 
+<img src=images/logout_page.png height="500px"/>
+<br/><br/>
+
 <img src=images/Home_page.png height="500px"/>
 <br/><br/>
 
